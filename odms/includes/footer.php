@@ -4,7 +4,7 @@
              <img src="images/ftr.png" alt=""/>
          </div>
          <div class="copywrite">
-             <p>Copyright © 2020 Online DJ Management System </p>
+             <p>Copyright © 2023 Online DJ Management System </p>
          </div>
          <div class="social-icons">
               <a href="#"><i class="twitter"></i></a>
