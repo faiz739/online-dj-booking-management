@@ -35,49 +35,49 @@
 			  <li><img src="images/7.jpg" alt="">
 				<div class="caption">
 					<h1>Image1</h1>
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/2.jpg" alt="">
 				<div class="caption">
 					<h1>Image2</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>	      
 			  <li><img src="images/10.jpg" alt="">
 				<div class="caption">
 					<h1>Image3</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/5.jpg" alt="">
 				<div class="caption">
 					<h1>Image1</h1>
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/8.jpg" alt="">
 				<div class="caption">
 					<h1>Image2</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>	      
 			  <li><img src="images/1.jpg" alt="">
 				<div class="caption">
 					<h1>Image3</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>	WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/13.jpg" alt="">
 				<div class="caption">
 					<h1>Image2</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>	      
 			  <li><img src="images/3.jpg" alt="">
 				<div class="caption">
 					<h1>Image3</h1>	  
-					<p>Nam est purus, egestas eu varius in, commodo vitae massa. Fusce mollis a lacus in tincidunt.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			</ul>
