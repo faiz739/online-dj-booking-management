@@ -35,37 +35,37 @@
 			  <li><img src="images/7.jpg" alt="">
 				<div class="caption">
 					<h1>Image1</h1>
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/2.jpg" alt="">
 				<div class="caption">
 					<h1>Image2</h1>	  
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>	      
 			  <li><img src="images/10.jpg" alt="">
 				<div class="caption">
 					<h1>Image3</h1>	  
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/5.jpg" alt="">
 				<div class="caption">
 					<h1>Image1</h1>
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/8.jpg" alt="">
 				<div class="caption">
 					<h1>Image2</h1>	  
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>	      
 			  <li><img src="images/1.jpg" alt="">
 				<div class="caption">
 					<h1>Image3</h1>	  
-					<p>	WE ROCK FEELS GOOD MAN.</p>
+					<p>WE ROCK FEELS GOOD MAN.</p>
 				</div>
 			  </li>
 			  <li><img src="images/13.jpg" alt="">

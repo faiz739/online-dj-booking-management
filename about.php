@@ -71,28 +71,28 @@ foreach($results as $row)
 			 <h3>LATEST PHOTOS</h3>		
 			 <div class="pic start">
 				 <a class="fancybox" href="images/4.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="images/4.jpg" class="img-style row6" alt=""><span> </span></a>	
-				 <h4><a href="event.html">Aenean rutrum</a></h4>
-				 <p>Suspendisse posuere enim eu ante scelerisque, vehicula turpis.</p>
+				 <h4><a href="event.html">Jam Banger</a></h4>
+				 <p>WE ROCK FEELS GOOD MAN.</p>
 			 </div>
 			 <div class="pic">
 				 <a class="fancybox" href="images/5.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="images/5.jpg" class="img-style row6" alt=""><span> </span></a>	
-				 <h4><a href="event.html">Aenean rutrum</a></h4>
-				 <p>Suspendisse posuere enim eu ante scelerisque, vehicula turpis.</p>
+				 <h4><a href="event.html">Jam Banger</a></h4>
+				 <p>WE ROCK FEELS GOOD MAN.</p>
 			 </div>
 			 <div class="pic">
 				 <a class="fancybox" href="images/6.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="images/6.jpg" class="img-style row6" alt=""><span> </span></a>	
-				 <h4><a href="event.html">Aenean rutrum</a></h4>
-				 <p>Suspendisse posuere enim eu ante scelerisque, vehicula turpis.</p>
+				 <h4><a href="event.html">Jam Banger</a></h4>
+				 <p>WE ROCK FEELS GOOD MAN.</p>
 			 </div>
 			 <div class="pic">
 				 <a class="fancybox" href="images/7.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="images/7.jpg" class="img-style row6" alt=""><span> </span></a>	
-				 <h4><a href="event.html">Aenean rutrum</a></h4>
-				 <p>Suspendisse posuere enim eu ante scelerisque, vehicula turpis.</p>
+				 <h4><a href="event.html">Jam Banger</a></h4>
+				 <p>WE ROCK FEELS GOOD MAN.</p>
 			 </div>
 			 <div class="pic">
 				 <a class="fancybox" href="images/8.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet"><img src="images/8.jpg" class="img-style row6" alt=""><span> </span></a>	
-				 <h4><a href="event.html">Aenean rutrum</a></h4>
-				 <p>Suspendisse posuere enim eu ante scelerisque, vehicula turpis.</p>
+				 <h4><a href="event.html">Jam Banger</a></h4>
+				 <p>WE ROCK FEELS GOOD MAN.</p>
 			 </div>
 			 <div class="clearfix"></div>
 		 </div>
